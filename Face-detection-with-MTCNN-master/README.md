@@ -1,7 +1,7 @@
 # Face-detection-with-MTCNN
 In this repository i will show you how to detect faces from an image using mtcnn
 
-<img class="alignnone size-full wp-image-103" src="https://getpython.files.wordpress.com/2019/06/burnstowndam1559987409.png" alt="burnstowndam1559987409" width="800" height="600" />
+
 <h3>How to run this code:</h3>
 <ul>
 	<li>download this code from my GitHub</li>
